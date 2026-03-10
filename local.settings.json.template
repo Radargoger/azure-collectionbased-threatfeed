@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "SOCRADAR_API_KEY": "<your-socradar-api-key>",
+    "SOCRADAR_COMPANY_ID": "<your-socradar-company-id>",
+    "SOCRADAR_BASE_URL": "https://platform.socradar.com",
+    "AZURE_TENANT_ID": "<your-azure-tenant-id>",
+    "AZURE_CLIENT_ID": "<your-azure-client-id>",
+    "AZURE_CLIENT_SECRET": "<your-azure-client-secret>",
+    "WORKSPACE_ID": "<your-log-analytics-workspace-id>",
+    "INDICATOR_EXPIRATION_DAYS": "30",
+    "TIMER_SCHEDULE": "0 0 * * * *"
+  }
+}

@@ -4,7 +4,7 @@ Ingests threat intelligence indicators from SOCRadar feeds into Microsoft Sentin
 
 ## Deployment
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FRadargoger%2FSOCRadar-Azure-Feeds%2Ffunction%2Fazuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FRadargoger%2Fazure-collectionbased-threatfeed%2Ffunction%2Fazuredeploy.json)
 
 Click the **Deploy to Azure** button above. Fill in the parameters and click **Create**. The function app and code are deployed automatically.
 
